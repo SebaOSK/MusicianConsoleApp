@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\MusicianConsoleApp\Musician\Musician\obj\Debug\net7.0\Musician.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\MusicianConsoleApp\Musician\Musician\obj\Debug\net7.0\Musician.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\MusicianConsoleApp\Musician\Musician\obj\Debug\net7.0\Musician.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\MusicianConsoleApp\Musician\Musician\obj\Debug\net7.0\Musician.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\MusicianConsoleApp\Musician\Musician\obj\Debug\net7.0\Musician.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\MusicianConsoleApp\Musician\Musician\bin\Debug\net7.0\Musician.exe
+C:\Users\Korisnik\Desktop\MusicianConsoleApp\Musician\Musician\bin\Debug\net7.0\Musician.deps.json
+C:\Users\Korisnik\Desktop\MusicianConsoleApp\Musician\Musician\bin\Debug\net7.0\Musician.runtimeconfig.json
+C:\Users\Korisnik\Desktop\MusicianConsoleApp\Musician\Musician\bin\Debug\net7.0\Musician.dll
+C:\Users\Korisnik\Desktop\MusicianConsoleApp\Musician\Musician\bin\Debug\net7.0\Musician.pdb
+C:\Users\Korisnik\Desktop\MusicianConsoleApp\Musician\Musician\obj\Debug\net7.0\Musician.dll
+C:\Users\Korisnik\Desktop\MusicianConsoleApp\Musician\Musician\obj\Debug\net7.0\refint\Musician.dll
+C:\Users\Korisnik\Desktop\MusicianConsoleApp\Musician\Musician\obj\Debug\net7.0\Musician.pdb
+C:\Users\Korisnik\Desktop\MusicianConsoleApp\Musician\Musician\obj\Debug\net7.0\Musician.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\MusicianConsoleApp\Musician\Musician\obj\Debug\net7.0\ref\Musician.dll
